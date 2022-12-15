@@ -1,11 +1,7 @@
-# oxie
+# Oxie
 
 Oxie discord bot
 
 -- support : https://discord.gg/8f8N4PVT55
 
--- invitation : https://discord.com/api/oauth2/authorize?client_id=874299824508370944&permissions=8&scope=bot
-
--- INFORMATION --
-
-La reproduction du bot est interdite.
+This bot not used from 9 months, you can use all of this code like you want, but always repect all of rules !
