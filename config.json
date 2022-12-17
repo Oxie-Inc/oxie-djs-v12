@@ -1,0 +1,15 @@
+{
+	"token":"",
+	"favicon":"https://cdn.discordapp.com/avatars/874299824508370944/acdd48943ddf5614a7378adfa9289756.webp",
+    
+	"maintenance":"❌ Commande désactivée !",
+	"noperms":"❌ Vous n'avez pas accés à la commands !",
+    
+	"mysql": {
+        "host": "",
+        "user": "",
+        "port": "",
+        "password": "",
+        "database": ""
+    }
+}
